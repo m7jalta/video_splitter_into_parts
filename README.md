@@ -10,5 +10,6 @@ Usefull for automatically split video into smaller chunks so they can be uploade
 
 #required:
 
-ffmpeg (full version)
-Moviepy 
+#ffmpeg (full version)
+
+#Moviepy 
